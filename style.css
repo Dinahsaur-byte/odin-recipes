@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    color: aquamarine;
+} 
+h2 {
+    text-align:center;
+    color: aquamarine;
+} 
+h3 {
+    text-align:center;
+    color: aquamarine;
+}
+* {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color: rgb(236, 245, 236);
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
